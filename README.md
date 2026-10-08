@@ -13,7 +13,8 @@
 
 ## 应用截图
 
-> 在 DevEco Studio 预览器中可实时查看界面效果
+<img width="631" height="397" alt="image" src="https://github.com/user-attachments/assets/7a91b106-7906-4528-a989-8540a2f9868b" />
+
 
 ## 技术栈
 
